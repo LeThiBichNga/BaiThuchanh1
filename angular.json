@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Thuchanh"
+    }
+  },
+  "defaultProject": "Thuchanh",
+  "cli": {
+    "analytics": "9b42c569-7e92-4f4b-8278-73bbd8cb0256"
+  }
 }
